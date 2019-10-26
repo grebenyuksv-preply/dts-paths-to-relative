@@ -1,0 +1,17 @@
+{
+	"name": "dts-paths-to-relative",
+	"version": "0.0.3",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"command-line-args": "^5.1.1",
+		"replace-in-file": "^4.2.0"
+	},
+	"files": [
+		"bin",
+		"index.js"
+	],
+	"bin": {
+		"dts-paths-to-relative": "./bin/index.js"
+	}
+}
