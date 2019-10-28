@@ -15,3 +15,6 @@ import { Utils } from './utils';
 ```
 
 ... to make your `.d.ts` work.
+
+# Usage
+```npx dts-paths-to-relative --rootDir=build # your .d.ts. directory```
